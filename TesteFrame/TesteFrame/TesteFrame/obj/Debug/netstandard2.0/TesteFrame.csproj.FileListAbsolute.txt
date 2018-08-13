@@ -1,0 +1,11 @@
+C:\Projetos\TesteFrame\TesteFrame\TesteFrame\bin\Debug\netstandard2.0\TesteFrame.deps.json
+C:\Projetos\TesteFrame\TesteFrame\TesteFrame\bin\Debug\netstandard2.0\TesteFrame.dll
+C:\Projetos\TesteFrame\TesteFrame\TesteFrame\bin\Debug\netstandard2.0\TesteFrame.pdb
+C:\Projetos\TesteFrame\TesteFrame\TesteFrame\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projetos\TesteFrame\TesteFrame\TesteFrame\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Projetos\TesteFrame\TesteFrame\TesteFrame\obj\Debug\netstandard2.0\TesteFrame.csproj.CoreCompileInputs.cache
+C:\Projetos\TesteFrame\TesteFrame\TesteFrame\obj\Debug\netstandard2.0\TesteFrame.AssemblyInfoInputs.cache
+C:\Projetos\TesteFrame\TesteFrame\TesteFrame\obj\Debug\netstandard2.0\TesteFrame.AssemblyInfo.cs
+C:\Projetos\TesteFrame\TesteFrame\TesteFrame\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projetos\TesteFrame\TesteFrame\TesteFrame\obj\Debug\netstandard2.0\TesteFrame.dll
+C:\Projetos\TesteFrame\TesteFrame\TesteFrame\obj\Debug\netstandard2.0\TesteFrame.pdb
